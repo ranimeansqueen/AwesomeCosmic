@@ -1,0 +1,22 @@
+body {
+    color: #000;
+    font-family: arial;
+    text-align: center;
+    padding: 15px;
+  }
+  
+  h1 {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 15px;
+  }
+
+* {
+  margin: 0.5;
+  padding: 1;
+  font-family: georgia;
+  color: #416;
+  scroll-behavior: smooth;
+}
+  
+  
